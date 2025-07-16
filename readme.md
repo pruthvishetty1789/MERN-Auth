@@ -2,8 +2,8 @@
 
 This is a starter app for a MERN stack application with authentication. This is for a SPA (Single Page Application) workflow that uses the [Vite](https://vite.dev) Build tool. This authentication workflow is based off of my [MERN Stack From Scratch | eCommerce](https://www.traversymedia.com/mern-stack-from-scratch) course.
 
-<img src="C:\Users\Rajesh Shetty\OneDrive\Pictures\Screenshots\Screenshot (226).png">
-<img src="C:\Users\Rajesh Shetty\OneDrive\Pictures\Screenshots\Screenshot (225).png">
+<img src=""D:\MERN\mern-auth\Screenshot (226).png"">
+<img src=""D:\MERN\mern-auth\Screenshot (225).png"">
 
 It includes the following:
 
